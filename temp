@@ -1,0 +1,354 @@
+tid = 3078413168 request-line:
+GET / HTTP/1.0
+tid = 3078413168 request-header:
+Host: www.baidu.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: BAIDUID=61C249EDA63CA86F02FF3381FF809CA1:FG=1; BDUSS=jZLWG9uVmduR3Fybmktflc1VlJwRHZUMlFZUlZxdnZvb080cGlEeWpifllHNGhRQVFBQUFBJCQAAAAAAAAAAAoavCFdde8Lt6jAvMzs0Kt2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAYIArMAAAAOAK5XMAAAAA-WZCAAAAAAAxMC40Mi4yMNjNmk~YzZpPb; BDRCVFR[hapTFFYpxUY]=mbxnW11j9Dfmh7GuZR8mvqV; BDUT=c27m61C249EDA63CA86F02FF3381FF809CA1136f646810b0
+
+tid = 3070020464 request-line:
+GET /home/nav/data/msg?asyn=1&t=0.3048479806510782 HTTP/1.0
+tid = 3070020464 request-header:
+Host: www.baidu.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+X-Requested-With: XMLHttpRequest
+Referer: http://www.baidu.com/
+Cookie: BAIDUID=61C249EDA63CA86F02FF3381FF809CA1:FG=1; BDUSS=jZLWG9uVmduR3Fybmktflc1VlJwRHZUMlFZUlZxdnZvb080cGlEeWpifllHNGhRQVFBQUFBJCQAAAAAAAAAAAoavCFdde8Lt6jAvMzs0Kt2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAYIArMAAAAOAK5XMAAAAA-WZCAAAAAAAxMC40Mi4yMNjNmk~YzZpPb; BDRCVFR[hapTFFYpxUY]=mbxnW11j9Dfmh7GuZR8mvqV; BDUT=c27m61C249EDA63CA86F02FF3381FF809CA1136f646810b0
+
+tid = 3078413168 request-line:
+GET /home/nav/data/useless?_t=1335582841688 HTTP/1.0
+tid = 3078413168 request-header:
+Host: www.baidu.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+X-Requested-With: XMLHttpRequest
+Referer: http://www.baidu.com/
+Cookie: BAIDUID=61C249EDA63CA86F02FF3381FF809CA1:FG=1; BDUSS=jZLWG9uVmduR3Fybmktflc1VlJwRHZUMlFZUlZxdnZvb080cGlEeWpifllHNGhRQVFBQUFBJCQAAAAAAAAAAAoavCFdde8Lt6jAvMzs0Kt2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAYIArMAAAAOAK5XMAAAAA-WZCAAAAAAAxMC40Mi4yMNjNmk~YzZpPb; BDRCVFR[hapTFFYpxUY]=mbxnW11j9Dfmh7GuZR8mvqV; BDUT=c27m61C249EDA63CA86F02FF3381FF809CA1136f646810b0
+
+tid = 3061627760 request-line:
+GET /v.gif?pid=315&url=&type=2011&m=nav_log&navOpera=show&method=navLog&navModuleVisible=1&navCountFromRp=11&isLog=1&navlogid=2002425251335582841523&group=8&uname=%25E6%25B3%2595%25E5%2585%25B0%25E5%25A4%25A9%25E8%259D%258Ev&navCount=12&navModulePos=&portrait=5d75b7a8c0bcccecd0ab76ef0b&utype=8&_t=0.8399524106813447&notuser=1 HTTP/1.0
+tid = 3061627760 request-header:
+Host: dj0.baidu.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.baidu.com/
+Cookie: BAIDUID=61C249EDA63CA86F02FF3381FF809CA1:FG=1; BDUSS=jZLWG9uVmduR3Fybmktflc1VlJwRHZUMlFZUlZxdnZvb080cGlEeWpifllHNGhRQVFBQUFBJCQAAAAAAAAAAAoavCFdde8Lt6jAvMzs0Kt2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAYIArMAAAAOAK5XMAAAAA-WZCAAAAAAAxMC40Mi4yMNjNmk~YzZpPb; BDUT=c27m61C249EDA63CA86F02FF3381FF809CA1136f646810b0
+
+tid = 3061627760 request-line:
+GET / HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: PREF=ID=bc206b632bd282e0:U=4747d9e5c9d9030b:FF=0:TM=1327839465:LM=1335565184:GM=1:S=R9nQ5Ztydf3MoT64; NID=59=s0IYWU-BSELDQ_rCmoFhU8r8M3ZQ_-GWR1rnVNh9qHRQzrvPq0GK4gbBe1ag66-4K1QcJj8Ogwh8fiCSR2vGDxnBgganaVUlSV_DL1yPRtImpnkVcKN9TBtgGg5YyJMA-dkzt_2DqjuAUZMgxUwqVPqQnePchn0j67RhWoHn9kuUoFJUhrJiZdmVCwmk; SID=DQAAALcAAACXnN6YlGwzZ_kPUlgVXIom6YxtKc1zBeJeX9fAfCrXl8rw6uwkjB1IOY2uJPT-21CiqPH5dfrGd_1yhOeHEXgVVJeInXlvTSCz2tDy9T8C9xYeRA29GYQQbHKH9I2K2Tm6LZp00cqzAan08TKgSNm_iwdLX2tFjcb6V9BptGISIi3CkzUGqgrTUFi1mcx_-ln_LLUFRRqPTl6OKyB6utFZtqJvkWMew5UFCII1MVdQGk6oS4ua7sq5xTQ_vrHNd10; HSID=AUobNHg1yuUKZkcac; APISID=_MibnpF8RHEBrgih/AXzqnsnGuB-G8xcGa
+
+tid = 3061627760 request-line:
+GET /watch?v=o9GvnmzxEwA&feature=g-all-u HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070; s_tempdata-597115337=context=G2bc2c4aFAAAAAAAARAA
+
+tid = 3061627760 request-line:
+GET /generate_204?upn=gn-NzWK0sXA&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=907605%2C919100%2C911622%2C920701&algorithm=throttle-factor&itag=34&ip=128.0.0.0&burst=40&sver=3&signature=21951C9B1CBCABE074CBFAC04499A206C6027B70.44B02B0996A87AABEAD1777DDA11C6A1927A1E50&source=youtube&expire=1335606459&key=yt1&ipbits=8&factor=1.25&cp=U0hSSlZLVF9KU0NOMl9ORVhFOnZEMGxfUlRGRTI3&id=a3d1af9e6cf11300 HTTP/1.0
+tid = 3061627760 request-header:
+Host: o-o.preferred.ord12s05.v8.lscache7.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=o9GvnmzxEwA&feature=g-all-u
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /watch?v=Azn5Aq_7d9s&feature=g-all-u HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /generate_204?upn=CPl_MePhp6o&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=907605%2C919100%2C911622%2C920701&algorithm=throttle-factor&itag=34&ip=128.0.0.0&burst=40&sver=3&signature=BDA0B47CF2F8A476A5E82728D46FC288C55FE5A3.27483FDE5DE213394A5CFE812A51C9340242AEFE&source=youtube&expire=1335608430&key=yt1&ipbits=8&factor=1.25&cp=U0hSSlZLVl9ISkNOMl9ORVpFOm1EMGxfUlRIRTA4&id=0339f902affb77db HTTP/1.0
+tid = 3061627760 request-header:
+Host: o-o.preferred.ord12s05.v6.lscache1.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=Azn5Aq_7d9s&feature=g-all-u
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /generate_204 HTTP/1.0
+tid = 3061627760 request-header:
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=o9GvnmzxEwA&feature=g-all-u
+Cookie: PREF=ID=bc206b632bd282e0:U=4747d9e5c9d9030b:FF=0:TM=1327839465:LM=1335565184:GM=1:S=R9nQ5Ztydf3MoT64; NID=59=s0IYWU-BSELDQ_rCmoFhU8r8M3ZQ_-GWR1rnVNh9qHRQzrvPq0GK4gbBe1ag66-4K1QcJj8Ogwh8fiCSR2vGDxnBgganaVUlSV_DL1yPRtImpnkVcKN9TBtgGg5YyJMA-dkzt_2DqjuAUZMgxUwqVPqQnePchn0j67RhWoHn9kuUoFJUhrJiZdmVCwmk; SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomPdUV1gowQahIMpZhn5PxVxh9m-ikWcRc55_PWr1TkcNv21Vp59W18XywirwsdMQCOqYkHzBt2NsdDIhWGnsnAAYEnKeJqz8fQxHpWCNHWfYvGETGwgbkQcC8gDBUa0Sv8vw8tgHBMrjb2EPi13fCQzh3mZRlCKmEK1bSAtGS-QNu7IFtIvZHWMRZ-QNEVYRY1gOqBvKNkXULXNETddJzVtFFy3m8xg_pxOU4brwFfgc; HSID=AUobNHg1yuUKZkcac; APISID=_MibnpF8RHEBrgih/AXzqnsnGuB-G8xcGa
+
+tid = 3061627760 request-line:
+GET /crossdomain.xml HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+If-Modified-Since: Mon, 02 Apr 2012 00:13:23 GMT
+
+tid = 3078413168 request-line:
+GET /videoplayback?factor=1.25&range=13-1781759&fexp=907605%2C919100%2C911622%2C920701&algorithm=throttle-factor&ipbits=8&key=yt1&signature=21951C9B1CBCABE074CBFAC04499A206C6027B70.44B02B0996A87AABEAD1777DDA11C6A1927A1E50&upn=gn-NzWK0sXA&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&itag=34&burst=40&source=youtube&expire=1335606459&id=a3d1af9e6cf11300&cp=U0hSSlZLVF9KU0NOMl9ORVhFOnZEMGxfUlRGRTI3&cm2=1&sver=3&keepalive=yes&ip=128.0.0.0 HTTP/1.0
+tid = 3078413168 request-header:
+Host: o-o.preferred.ord12s05.v8.lscache7.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /gen_204?a=resolution&width=1280&height=800&depth=24&win_width=978&win_height=611 HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=Azn5Aq_7d9s&feature=g-all-u
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /user_watch?asv=3&t=vjVQa1PpcFP882q9Ot5twRls1Ve-Zu7vHWKG3F9FkyI=&referrer=http%3A%2F%2Fwww.youtube.com%2F&el=detailpage&fmt=34&plid=AAS-tJ2AAeMQqrs_&feature=g-all-u&video_id=o9GvnmzxEwA HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3061627760 request-line:
+GET /user_watch?el=detailpage&fmt=34&plid=AAS-tJ2NU1h-rHbU&feature=g-all-u&t=vjVQa1PpcFPIopindPoOY2C0dM7TJiosyMfjh7omcRU=&referrer=http%3A%2F%2Fwww.youtube.com%2F&asv=3&video_id=Azn5Aq_7d9s HTTP/1.0
+tid = 3061627760 request-header:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /generate_204 HTTP/1.0
+tid = 3053235056 request-header:
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=Azn5Aq_7d9s&feature=g-all-u
+Cookie: PREF=ID=bc206b632bd282e0:U=4747d9e5c9d9030b:FF=0:TM=1327839465:LM=1335565184:GM=1:S=R9nQ5Ztydf3MoT64; NID=59=s0IYWU-BSELDQ_rCmoFhU8r8M3ZQ_-GWR1rnVNh9qHRQzrvPq0GK4gbBe1ag66-4K1QcJj8Ogwh8fiCSR2vGDxnBgganaVUlSV_DL1yPRtImpnkVcKN9TBtgGg5YyJMA-dkzt_2DqjuAUZMgxUwqVPqQnePchn0j67RhWoHn9kuUoFJUhrJiZdmVCwmk; SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomPdUV1gowQahIMpZhn5PxVxh9m-ikWcRc55_PWr1TkcNv21Vp59W18XywirwsdMQCOqYkHzBt2NsdDIhWGnsnAAYEnKeJqz8fQxHpWCNHWfYvGETGwgbkQcC8gDBUa0Sv8vw8tgHBMrjb2EPi13fCQzh3mZRlCKmEK1bSAtGS-QNu7IFtIvZHWMRZ-QNEVYRY1gOqBvKNkXULXNETddJzVtFFy3m8xg_pxOU4brwFfgc; HSID=AUobNHg1yuUKZkcac; APISID=_MibnpF8RHEBrgih/AXzqnsnGuB-G8xcGa
+
+tid = 3070020464 request-line:
+GET /videoplayback?range=13-1781759&fexp=907605%2C919100%2C911622%2C920701&sver=3&factor=1.25&ip=128.0.0.0&cp=U0hSSlZLVl9ISkNOMl9ORVpFOm1EMGxfUlRIRTA4&upn=CPl_MePhp6o&key=yt1&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&ipbits=8&id=0339f902affb77db&itag=34&expire=1335608430&source=youtube&algorithm=throttle-factor&cm2=1&burst=40&keepalive=yes&signature=BDA0B47CF2F8A476A5E82728D46FC288C55FE5A3.27483FDE5DE213394A5CFE812A51C9340242AEFE HTTP/1.0
+tid = 3070020464 request-header:
+Host: o-o.preferred.ord12s05.v6.lscache1.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?fmt=34&scoville=1&sendtmp=1&cr=US&mos=0&fs=0&nsivbblc=3&nsivbblmax=1052821.000&uga=m23&nsivbblmean=669063.333&h=360&subscribed=1&feature=g-all-u&nsiabblmin=113126.000&vw=640&nsiabblmax=139608.000&ns=yt&vh=360&et=0.058&rendering=software&volume=100&lact=5902455&nsiabblc=2&plid=AAS-tJ2AAeMQqrs_&hbd=5248710&tsphab=1&nsiabblmean=126367.000&hbt=3.734&tspne=0&decoding=software&w=640&tspfdt=751&bc=1663213&fv=LNX%2011%2C2%2C202%2C233&rt=1.147&playback=1&st=0.058&tabsb=1&sdetail=f%3Ag-all-u%2Cp%3A%2F&csipt=watch5&el=detailpage&docid=o9GvnmzxEwA&md=1&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&hasstoryboard=1&sourceid=y&nsivbblmin=59454.000&sd=BADC23703HH1335582854630422&bd=714367&len=3543.673&fexp=920701,919100,907605,911622&bt=0.116&hl=en_US&vq=auto&referrer=http%3A%2F%2Fwww.youtube.com%2F&screenw=1280&screenh=800&cfps=0&playerw=640&playerh=390 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3044842352 request-line:
+GET /csi?v=2&s=youtube&action=watch5&e=907605,919100,911622,920701&an=&li=1&asv=3&fmt=34&plid=AAS-tJ2AAeMQqrs_&fv=LNX%2011%2C2%2C202%2C233&docid=o9GvnmzxEwA&tspab=1&rt=ct.111,bf.117,foot_begin.131,foot_end.132,js_head.195,js_page.199,js_foot.200,ol.613,gv.1358,fs.662,vri.1349,fvb.2354,vr.2387,fvf.2090,vl.1029,aft.2387 HTTP/1.0
+tid = 3044842352 request-header:
+Host: csi.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=o9GvnmzxEwA&feature=g-all-u
+
+tid = 3061627760 request-line:
+GET /s?cr=US&vq=auto&screenw=1280&fmt=34&cfps=0&playerw=640&subscribed=1&playerh=390&screenh=800&sendtmp=1&volume=100&feature=g-all-u&mos=0&referrer=http%3A%2F%2Fwww.youtube.com%2F&fs=0&nsiabblmax=28520.000&w=640&nsivbblc=2&uga=m23&h=360&plid=AAS-tJ2NU1h-rHbU&nsiabblmin=1406.000&scoville=1&lact=5902750&vw=640&nsiabblmean=14963.000&ns=yt&vh=360&et=0.049&rendering=software&sdetail=f%3Ag-all-u%2Cp%3A%2F&decoding=software&hbd=5248710&tsphab=1&tabsb=1&hbt=3.734&tspne=0&tspfdt=631&bc=234479&fv=LNX%2011%2C2%2C202%2C233&nsiabblc=2&rt=0.828&len=163.797&st=0.049&md=1&sourceid=y&playback=1&docid=Azn5Aq_7d9s&fexp=920701,919100,907605,911622&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&csipt=watch5&hasstoryboard=1&el=detailpage&nsivbblmax=412902.000&nsivbblmin=148439.000&sd=BADC23601HH1335582855483285&hl=en_US&nsivbblmean=280670.500 HTTP/1.0
+tid = 3061627760 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /csi?v=2&s=youtube&action=watch5&e=907605,919100,911622,920701&an=&li=1&tspab=1&asv=3&fmt=34&docid=Azn5Aq_7d9s&fv=LNX%2011%2C2%2C202%2C233&plid=AAS-tJ2NU1h-rHbU&rt=ct.205,bf.211,foot_begin.224,foot_end.225,js_head.285,js_page.288,js_foot.289,ol.795,fvf.1780,gv.1176,pre_cc.1120,fvb.1920,vr.1958,fs.889,vri.1160,vl.782,aft.1958 HTTP/1.0
+tid = 3053235056 request-header:
+Host: csi.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Referer: http://www.youtube.com/watch?v=Azn5Aq_7d9s&feature=g-all-u
+
+tid = 3053235056 request-line:
+GET /s?screenh=800&scoville=1&playerw=640&pd=0.400&cr=US&mos=0&fs=0&nsivbblc=68&nsivbblmax=1055294.000&uga=m23&nsivbblmean=791718.559&h=360&subscribed=1&feature=g-all-u&nsiabblmin=43774.000&vw=640&nsiabblmax=137657.000&ns=yt&vh=360&et=9.719&rendering=software&volume=100&lact=5912537&nsiabblc=68&plid=AAS-tJ2AAeMQqrs_&hbd=5248710&tsphab=1&nsiabblmean=103355.265&hbt=3.734&st=0&decoding=software&w=640&tspfdt=751&sdetail=f%3Ag-all-u%2Cp%3A%2F&rt=11.226&el=detailpage&md=1&bc=1663213&csipt=watch5&tspne=0&tabsb=1&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&hasstoryboard=1&sourceid=y&nsivbblmin=437237.000&nsidf=7&sd=BADC23703HH1335582854630422&docid=o9GvnmzxEwA&len=3543.673&fexp=920701,919100,907605,911622&hl=en_US&vtmp=1&vq=auto&referrer=http%3A%2F%2Fwww.youtube.com%2F&screenw=1280&fmt=34&cfps=30.18108651911469&sendtmp=1&playerh=390 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?cr=US&vtmp=1&vq=auto&screenw=1280&h=360&cfps=30.241935483870968&playerw=640&subscribed=1&playerh=390&fmt=34&scoville=1&nsivbblmax=1070657.000&volume=100&feature=g-all-u&mos=0&screenh=800&fs=0&w=640&uga=m23&referrer=http%3A%2F%2Fwww.youtube.com%2F&plid=AAS-tJ2NU1h-rHbU&nsivbblmean=796934.871&nsiabblmax=140658.000&nsivbblc=70&sendtmp=1&lact=5912806&vw=640&ns=yt&vh=360&et=9.518&rendering=software&sdetail=f%3Ag-all-u%2Cp%3A%2F&decoding=software&hbd=5248710&tsphab=1&tabsb=1&hbt=3.734&tspne=0&nsiabblc=70&tspfdt=631&bc=1781759&nsiabblmean=111518.943&nsidf=7&st=0&md=1&nsiabblmin=66123.000&sourceid=y&el=detailpage&len=163.797&fexp=920701,919100,907605,911622&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&csipt=watch5&hasstoryboard=1&sd=BADC23601HH1335582855483285&nsivbblmin=518976.000&docid=Azn5Aq_7d9s&rt=10.883&hcbd=1188672&hcbt=0.3820000000000001&bd=1547280&hl=en_US&bt=0.569 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?fmt=34&scoville=1&sendtmp=1&pd=4.838&cr=US&mos=0&fs=0&nsivbblc=31&nsivbblmax=432919.000&uga=m23&nsivbblmean=235359.806&h=360&subscribed=1&feature=g-all-u&nsiabblmin=2980.000&vw=640&nsiabblmax=42628.000&ns=yt&vh=360&et=14.812&rendering=software&volume=100&lact=5922562&nsiabblc=18&plid=AAS-tJ2AAeMQqrs_&hbd=5248710&tsphab=1&nsiabblmean=23183.500&hbt=3.734&tspne=0&decoding=software&w=640&tspfdt=751&bc=1663213&rt=21.251&el=detailpage&st=9.719&tabsb=1&sdetail=f%3Ag-all-u%2Cp%3A%2F&csipt=watch5&docid=o9GvnmzxEwA&md=1&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&hasstoryboard=1&sourceid=y&nsivbblmin=1466.000&sd=BADC23703HH1335582854630422&len=3543.673&fexp=920701,919100,907605,911622&hl=en_US&fbe=1&vtmp=1&vq=auto&referrer=http%3A%2F%2Fwww.youtube.com%2F&screenw=1280&screenh=800&cfps=30.54989816700611&playerw=640&nbe=1&playerh=390 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?fbe=1&cr=US&vtmp=1&vq=auto&screenw=1280&fmt=34&cfps=30&playerw=640&nbe=1&subscribed=1&playerh=390&screenh=800&sendtmp=1&pd=3.679&volume=100&feature=g-all-u&mos=0&referrer=http%3A%2F%2Fwww.youtube.com%2F&fs=0&nsivbblmax=514135.000&w=640&uga=m23&nsivbblc=37&plid=AAS-tJ2NU1h-rHbU&nsivbblmean=239217.027&nsiabblmax=64727.000&nsivbblmin=5027.000&scoville=1&h=360&lact=5922807&vw=640&ns=yt&vh=360&et=15.845&rendering=software&sdetail=f%3Ag-all-u%2Cp%3A%2F&decoding=software&hbd=5248710&tsphab=1&tabsb=1&hbt=3.734&len=163.797&nsiabblc=23&tspfdt=631&bc=1781759&nsiabblmean=34330.913&nsidf=1&st=9.518&md=1&nsiabblmin=1654.000&sourceid=y&el=detailpage&tspne=0&fexp=920701,919100,907605,911622&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&csipt=watch5&hasstoryboard=1&sd=BADC23601HH1335582855483285&docid=Azn5Aq_7d9s&rt=20.885&hl=en_US HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3078413168 request-line:
+GET /videoplayback?expire=1335606459&range=1781760-3563519&ip=128.0.0.0&factor=1.25&upn=gn-NzWK0sXA&key=yt1&keepalive=yes&fexp=907605%2C919100%2C911622%2C920701&id=a3d1af9e6cf11300&itag=34&burst=40&signature=21951C9B1CBCABE074CBFAC04499A206C6027B70.44B02B0996A87AABEAD1777DDA11C6A1927A1E50&source=youtube&sver=3&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&cm2=0&ipbits=8&algorithm=throttle-factor&cp=U0hSSlZLVF9KU0NOMl9ORVhFOnZEMGxfUlRGRTI3 HTTP/1.0
+tid = 3078413168 request-header:
+Host: o-o.preferred.ord12s05.v8.lscache7.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3070020464 request-line:
+GET /videoplayback?sver=3&fexp=907605%2C919100%2C911622%2C920701&cm2=0&id=0339f902affb77db&ipbits=8&expire=1335608430&key=yt1&signature=BDA0B47CF2F8A476A5E82728D46FC288C55FE5A3.27483FDE5DE213394A5CFE812A51C9340242AEFE&upn=CPl_MePhp6o&itag=34&range=1781760-3563519&source=youtube&burst=40&algorithm=throttle-factor&factor=1.25&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&keepalive=yes&ip=128.0.0.0&cp=U0hSSlZLVl9ISkNOMl9ORVpFOm1EMGxfUlRIRTA4 HTTP/1.0
+tid = 3070020464 request-header:
+Host: o-o.preferred.ord12s05.v6.lscache1.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3070020464 request-line:
+GET /videoplayback?range=3563520-5345279&fexp=907605%2C919100%2C911622%2C920701&ip=128.0.0.0&upn=CPl_MePhp6o&algorithm=throttle-factor&id=0339f902affb77db&key=yt1&burst=40&keepalive=yes&ipbits=8&itag=34&source=youtube&expire=1335608430&cp=U0hSSlZLVl9ISkNOMl9ORVpFOm1EMGxfUlRIRTA4&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&cm2=0&factor=1.25&signature=BDA0B47CF2F8A476A5E82728D46FC288C55FE5A3.27483FDE5DE213394A5CFE812A51C9340242AEFE&sver=3 HTTP/1.0
+tid = 3070020464 request-header:
+Host: o-o.preferred.ord12s05.v6.lscache1.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3078413168 request-line:
+GET /videoplayback?range=3563520-5345279&algorithm=throttle-factor&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&expire=1335606459&burst=40&id=a3d1af9e6cf11300&factor=1.25&signature=21951C9B1CBCABE074CBFAC04499A206C6027B70.44B02B0996A87AABEAD1777DDA11C6A1927A1E50&sver=3&ipbits=8&itag=34&upn=gn-NzWK0sXA&keepalive=yes&source=youtube&ip=128.0.0.0&cm2=0&key=yt1&cp=U0hSSlZLVF9KU0NOMl9ORVhFOnZEMGxfUlRGRTI3&fexp=907605%2C919100%2C911622%2C920701 HTTP/1.0
+tid = 3078413168 request-header:
+Host: o-o.preferred.ord12s05.v8.lscache7.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?screenh=800&scoville=1&playerw=640&pd=27.098&cr=US&mos=0&fs=0&subscribed=1&h=360&uga=m23&feature=g-all-u&lact=5972683&vw=640&ns=yt&vh=360&et=35.444&rendering=software&volume=100&st=14.812&decoding=software&plid=AAS-tJ2AAeMQqrs_&hbd=5248710&tsphab=1&hbt=3.734&tspne=0&nsivbblmax=968102.000&w=640&tspfdt=751&sdetail=f%3Ag-all-u%2Cp%3A%2F&rt=71.372&el=detailpage&md=1&bc=5348012&csipt=watch5&nsidf=9&tabsb=1&nsivbblmean=636259.417&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&hasstoryboard=1&sourceid=y&docid=o9GvnmzxEwA&nsivbblmin=2431.000&nsivbblc=163&nsiabblmax=120362.000&hcbd=1070125&sd=BADC23703HH1335582854630422&hcbt=30.959999999999997&bd=3684799&len=3543.673&nsiabblmin=1242.000&fexp=920701,919100,907605,911622&bt=65.349&nsiabblc=141&hl=en_US&vtmp=1&vq=auto&nsiabblmean=82825.475&referrer=http%3A%2F%2Fwww.youtube.com%2F&screenw=1280&fmt=34&cfps=29.585798816568047&sendtmp=1&nbe=1&playerh=390 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
+tid = 3053235056 request-line:
+GET /s?cr=US&vtmp=1&cfps=30.120481927710845&screenw=1280&h=360&vq=auto&playerw=640&nsiabblc=133&subscribed=1&playerh=390&nsiabblmean=88815.496&fmt=34&sendtmp=1&nsiabblmin=2573.000&nbe=1&volume=100&feature=g-all-u&mos=0&screenh=800&fs=0&pd=27.435&w=640&uga=m23&referrer=http%3A%2F%2Fwww.youtube.com%2F&nsiabblmax=121925.000&plid=AAS-tJ2NU1h-rHbU&nsivbblc=152&rt=71.024&scoville=1&nsivbblmean=721905.375&lact=5972947&vw=640&ns=yt&vh=360&et=36.558&rendering=software&sdetail=f%3Ag-all-u%2Cp%3A%2F&decoding=software&hbd=5248710&tsphab=1&tabsb=1&hbt=3.734&tspne=0&tspfdt=631&bc=5348011&nsivbblmin=10609.000&len=163.797&st=15.845&md=1&sourceid=y&el=detailpage&nsidf=7&fexp=920701,919100,907605,911622&vid=tJpHV2X_2AlAeNe0FcDrFRFUWvtUuOZyU&csipt=watch5&hasstoryboard=1&sd=BADC23601HH1335582855483285&docid=Azn5Aq_7d9s&nsivbblmax=1058052.000&bd=3566252&hl=en_US&bt=63.844 HTTP/1.0
+tid = 3053235056 request-header:
+Host: s.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.3) Gecko/20120305 Firefox/10.0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: close
+Cookie: SID=DQAAALgAAACXnN6YlGwzZ_kPUlgVXIomacfJnH36hR9gqB4DPNPLGasWk-VuXHHWCWXj7EU0-gxCnQmnY3_N9E897tLrRXmWl7zKXmR0gb991hkzgCQlybfFtp9NDMIxoRmPZmtbk0geS1mfa9QCL3f30V_ykPLRjqQFn9OUE2EAw49VTYycCj_zxtrpzfXwbY7m4qp7EQniNVKYiMJ1d9ddX2-J-mHf-1ZdOQjqqYeGvoed13y-wmilylOHpsq_RTZCZlJgtO8; HSID=A_Ua9DkxDb5t4aH8W; VISITOR_INFO1_LIVE=qG9m_PXDE90; LOGIN_INFO=7305b553484ceebde9123f6d3e3c4ccac4cAAAB7IjEiOiAxLCAiMyI6IDUyMTQxMjIxMiwgIjIiOiAiMVZqZ3l6dVZUd1VSSG9CYkR4UzZCUT09IiwgIjUiOiAyMTM5MDk1MDQwLCAiNCI6ICJHQUlBIiwgIjciOiAxMzM1NTgyNzk0LCAiNiI6IGZhbHNlLCAiOCI6IDQ4NzU0OTM2OTIwOH0=; demographics=9481f0b7a764ee9803d6318db848c8f1e3QGAAAAZ2VuZGVydAEAAABtdAMAAABhZ2VpFwAAADA=; PREF=fv=11.2.202; pl7tq.resume=1lTABO0IrBw:1113; dkv=b8113faa5d1ad7befeb230dd54ca9dd7e3QEAAAAdGxpcGleMptPMA==; __utma=27069237.1943849139.1335545971.1335545971.1335545971.1; __utmz=27069237.1335545971.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; ACTIVITY=1335576953070
+
